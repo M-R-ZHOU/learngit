@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 test
 branc
+=======
+test dev append something
+>>>>>>> dev
+de append
