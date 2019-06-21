@@ -1,1 +1,3 @@
 dev created
+Now learngit2 is doing something there
+in the file 1.txt of learngit I write something
