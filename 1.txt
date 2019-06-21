@@ -1,1 +1,2 @@
 dev created
+in the file of 1.txt in the folder learngit2, I write this words
