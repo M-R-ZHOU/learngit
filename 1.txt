@@ -1,3 +1,5 @@
 dev created
-Now learngit2 is doing something there
+<<<<<<< HEAD
 in the file 1.txt of learngit I write something
+in the file of 1.txt in the folder learngit2, I write this words
+
